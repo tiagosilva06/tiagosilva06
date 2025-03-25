@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Sou um Desenvolvedor Web apaixonado por esportes e que está em busca com disciplina se consolidar na área da tecnologia. Atualmente, estou estudando Engenharia de Software e sou apaixonado por criar soluções inovadoras que realmente façam a diferença.
+Sou um Desenvolvedor Web apaixonado por esportes e que está em busca com disciplina se consolidar na área da tecnologia. Atualmente, estou estudando Ánalise e Desenvolvimento de Sistemas e sou apaixonado por criar soluções inovadoras que realmente façam a diferença.
 
 - ☕ Atualmente melhorando meus conceitos em Java, e aprendendo sobre Desennvolvimento de API's, Banco de Dados e Cloud.
 - 👯 Aberto a colaborar em projetos interessantes e inovadores.
