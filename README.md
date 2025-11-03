@@ -1,60 +1,40 @@
-# Olá, me chamo Tiago Silva 👋
+<div align="left">
+  <code>System.out.println("Welcome to my github!😆")</code>
+</div>
 
-## Sobre Mim
+<hr>
 
-Sou um Desenvolvedor Web que ama esportes e que está em busca, com disciplina, se consolidar na área da tecnologia. Atualmente, estou estudando Ánalise e Desenvolvimento de Sistemas e busco sempre criar soluções inovadoras que realmente façam a diferença.
+<p>♟️ Code like an engineer. Think like a business.</p>
+<p>🎓 Computer Science student at <a href="https://www.usjt.br">São Judas Tadeu University</a></p>
+<p>💻 Passionate about backend development and software architecture.</p>
+<p>📚 Advanced English (C1)</a></p>
+<p>🔠 Portuguese (native)</p>
 
-- ☕ Atualmente melhorando meus conceitos em Java, e aprendendo sobre Desennvolvimento de API's, Banco de Dados e Cloud.
-- 👯 Aberto a colaborar em projetos interessantes e inovadores.
-- 📫 Como me encontrar: [LinkedIn](www.linkedin.com/in/tiago-santos-91891130b) | Email: tiagosilva9278@gmail.com
+<p align="right"> 
+  <a href="https://www.linkedin.com/in/tiago-silvadev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a> 
+  <a href="mailto:tiagosilva9278@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+  </a>  
+    <a href="https://www.instagram.com/tiagosilva06_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram">
+  </a> 
+  <a href="https://discord.com/users/tiagosilva06_" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord">
+  </a>
 
-## Experiência
+</p>
 
-### Etapa Educacional 
-**Jovem Aprendiz Infraestrutura**, 2024 - 2025 (Trabalho Atual)
+<hr>
 
-- Forneço suporte técnico de Nível 1, resolvendo problemas de hardware e software para usuários da empresa.
-- Realizo manutenção e reparo de notebooks e desktops, incluindo troca de peças e instalação de sistemas operacionais.
-- Realizo atendimento de funcionários de toda empresa e de outras filiais remotamente através do VNC, garantindo resolução rápida de problemas.
-- Presto suporte a configuração e implementação de segurança da rede da empresa, assegurando a conectividade e proteção dos sistemas.
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=java,spring,python,js,html,css,mysql,docker,git" alt="Skills"></a>
+</p> 
 
-### Projeto Pessoal
+<hr>
 
-Novidades em Breve..
-
-## Tecnologias
-
-- Java
-- SpringBoot
-- Git e GitHub
-- SQL, NoSQL, Docker
-- API rest
-- JavaScript
-- HTML
-- CSS
-- Azure
-
-## Educação
-
-- **Tecnologo em Ánalise e Desenvolvimento de Sistemas**, Universidade São Judas Tadeu (2025 – 2027)
-
-## Cursos e Certificações
-
-- **Bradesco Bootcamp** - Desenvolvimento Java Cloud Native, 2025 (Cursando)
-- **Udemy** - Java do Zero ao Avançado, 2025 (Cursando)
-- **Hashtag Treinamentos** - Jornada FullStack, 2025
-- **Curso em Video** - Lógica de Programação, 2024
-- **Fundação Bradesco** - Introdução a POO, 2024
-- **Fundação Bradesco** - Criando site simples com HTML, CSS e JavaScript, 2024
-
-## Idiomas
-
-- Português - Nativo
-- Inglês - Intermediário B2
-
-## Contato
-
-- [LinkedIn: Tiago da Silva Santos](www.linkedin.com/in/tiago-santos-91891130b)
-- Email: tiagosilva9278@gmail.com
-  
----
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tiagosilva06&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0d1117" alt="tiagosilva06 github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosilva06&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
+</div>
