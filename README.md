@@ -43,15 +43,9 @@ Experience with **Spring Security**, **validation**, **exception handling**, and
 
 ## ⚙️ Technologies & Tools
 
-<div style="display: inline_block"><br>
-  <img align="center" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain.svg" />
-  <img align="center" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,mysql,postgres,git&theme=dark" />
 </div>
 
 ---
