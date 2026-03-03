@@ -1,40 +1,70 @@
-<div align="left">
-  <code>System.out.println("Welcome to my github!😆")</code>
+# 👋🏼 Welcome to my GitHub!
+
+**Back-end Java Developer** with over 1 year of experience, strong foundation in **Object-Oriented Programming (OOP)** and building robust applications with **Spring Boot**.
+
+I design and develop **RESTful APIs** integrated with **MySQL** using **Hibernate/JPA**, applying **layered architecture**, **relational modeling**, and engineering best practices such as **Clean Code**, **SOLID principles**, and clear **separation of concerns**.
+
+Experience with **Spring Security**, **validation**, **exception handling**, and **API documentation**. Basic knowledge of **Docker** and **AWS** for cloud deployment. Focused on writing **scalable**, **secure**, **maintainable**, and **business-driven code** aligned with real-world **software architecture standards**.
+
+---
+
+### 🧭 Focus Areas
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>⚙️ Backend</h4>
+      <ul>
+        <li>Java & Spring Boot</li>
+        <li>RESTful APIs</li>
+        <li>Spring Security</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🏛️ Architecture</h4>
+      <ul>
+        <li>Layered Architecture</li>
+        <li>SOLID Principles</li>
+        <li>Clean Code & Design Patterns</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4>☁️ Cloud & Infrastructure</h4>
+      <ul>
+        <li>AWS</li>
+        <li>Docker</li>
+        <li>MySQL & JPA/Hibernate</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## ⚙️ Technologies & Tools
+
+<div style="display: inline_block"><br>
+  <img align="center" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="center" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+  <img align="center" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 
-<hr>
+---
 
-<p>♟️ Code like an engineer. Think like a business.</p>
-<p>🎓 Computer Science student at <a href="https://www.usjt.br">São Judas Tadeu University</a></p>
-<p>💻 Passionate about backend development and software architecture.</p>
-<p>📚 Advanced English (C1)</a></p>
-<p>🔠 Portuguese (native)</p>
-
-<p align="right"> 
-  <a href="https://www.linkedin.com/in/tiago-silvadev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a> 
-  <a href="mailto:tiagosilva9278@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
-  </a>  
-    <a href="https://www.instagram.com/tiagosilva06_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram">
-  </a> 
-  <a href="https://discord.com/users/tiagosilva06_" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord">
-  </a>
-
-</p>
-
-<hr>
-
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=java,spring,python,js,html,css,mysql,docker,git" alt="Skills"></a>
-</p> 
-
-<hr>
+### 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tiagosilva06&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0d1117" alt="tiagosilva06 github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosilva06&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagosilva06&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=ffffff10&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
 </div>
+
+---
+
+## 📫 How to reach me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiagosilva9278@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-silvadev/)
