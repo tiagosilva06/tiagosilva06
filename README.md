@@ -1,12 +1,10 @@
 # 👋🏼 Welcome to my GitHub!
 
-**Data Engineer | Back-end Developer** with over 1 year of experience in **Python**, **PySpark**, and **Java**. Strong foundation in software engineering — I understand how systems are built, how data flows through them, and how to turn that data into reliable, scalable pipelines.
+**Data Engineer** with a strong software engineering foundation — over 1 year of experience building **data pipelines**, **ETL processes**, and **distributed data systems** with **Python**, **PySpark**, and **SQL**. Background in back-end development gives me a deep understanding of how data is generated, stored, and exposed — a real advantage when designing reliable, end-to-end pipelines.
 
-I build **data pipelines** and **ETL processes** focused on scalability and data quality, applying **Clean Code**, **SOLID principles**, and **separation of concerns** to data workflows. Experience with **PySpark** for large-scale data processing, **SQL** for relational modeling, and **Python** for data transformation and analysis.
+I design and build **analytical pipelines** for financial data — processing large volumes of loan records, calculating P&L by vintage, measuring default rates, and running sensitivity simulations across credit portfolios. I apply **distributed processing with PySpark**, **layered pipeline architecture**, and engineering best practices such as **Clean Code** and **SOLID principles** to data workflows.
 
-Back-end background includes **RESTful APIs** with **Java & Spring Boot**, **Spring Security**, and **layered architecture** — giving me a practical understanding of the systems that generate the data I work with.
-
-Familiar with **Docker** for reproducible environments and **AWS** for cloud-based infrastructure. Focused on writing **maintainable**, **testable**, and **business-driven** solutions in both data and software engineering.
+Back-end background includes production-grade **REST APIs** with **Python/FastAPI** and **Java/Spring Boot**, **Docker containerization**, **JWT authentication**, and **relational modeling** with PostgreSQL and MySQL — giving me hands-on experience with the systems that generate the data I work with.
 
 ---
 
@@ -17,25 +15,28 @@ Familiar with **Docker** for reproducible environments and **AWS** for cloud-bas
     <td width="33%" valign="top">
       <h4>🔧 Data Engineering</h4>
       <ul>
-        <li>Python & PySpark</li>
-        <li>ETL / ELT Pipelines</li>
-        <li>Data Transformation</li>
+        <li>ETL / ELT Pipeline Design</li>
+        <li>PySpark & Distributed Processing</li>
+        <li>Data Transformation & Aggregation</li>
+        <li>Financial Data & Credit Analytics</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <h4>🏛️ Data Architecture</h4>
       <ul>
-        <li>Pipeline Design</li>
-        <li>SOLID & Clean Code</li>
+        <li>Pipeline Layered Architecture</li>
         <li>Relational Modeling & SQL</li>
+        <li>Data Validation & Quality</li>
+        <li>SOLID & Clean Code</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <h4>☁️ Cloud & Infrastructure</h4>
       <ul>
+        <li>Docker & Containerization</li>
         <li>AWS</li>
-        <li>Docker</li>
-        <li>MySQL & PostgreSQL</li>
+        <li>PostgreSQL & MySQL</li>
+        <li>REST APIs & Data Ingestion</li>
       </ul>
     </td>
   </tr>
@@ -46,15 +47,13 @@ Familiar with **Docker** for reproducible environments and **AWS** for cloud-bas
 ## ⚙️ Technologies & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,spring&theme=dark" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=aws,docker,mysql,postgres,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,docker&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=aws,git,java,spring&theme=dark" />
 </div>
 
 ---
 
 ## 📚 Currently Learning
-
-Tools and platforms I'm actively studying and will be adding to my stack:
 
 <table>
   <tr>
@@ -76,7 +75,7 @@ Tools and platforms I'm actively studying and will be adding to my stack:
       <h4>☁️ Cloud Data</h4>
       <ul>
         <li>Google Cloud (BigQuery)</li>
-        <li>Kafka</li>
+        <li>Apache Kafka</li>
       </ul>
     </td>
   </tr>
