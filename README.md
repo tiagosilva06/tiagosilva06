@@ -1,10 +1,12 @@
 # 👋🏼 Welcome to my GitHub!
 
-**Back-end Java Developer** with over 1 year of experience, strong foundation in **Object-Oriented Programming (OOP)** and building robust applications with **Spring Boot**.
+**Data Engineer | Back-end Developer** with over 1 year of experience in **Python**, **PySpark**, and **Java**. Strong foundation in software engineering — I understand how systems are built, how data flows through them, and how to turn that data into reliable, scalable pipelines.
 
-I design and develop **RESTful APIs** integrated with **MySQL** using **Hibernate/JPA**, applying **layered architecture**, **relational modeling**, and engineering best practices such as **Clean Code**, **SOLID principles**, and clear **separation of concerns**.
+I build **data pipelines** and **ETL processes** focused on scalability and data quality, applying **Clean Code**, **SOLID principles**, and **separation of concerns** to data workflows. Experience with **PySpark** for large-scale data processing, **SQL** for relational modeling, and **Python** for data transformation and analysis.
 
-Experience with **Spring Security**, **validation**, **exception handling**, and **API documentation**. Basic knowledge of **Docker** and **AWS** for cloud deployment. Focused on writing **scalable**, **secure**, **maintainable**, and **business-driven code** aligned with real-world **software architecture standards**.
+Back-end background includes **RESTful APIs** with **Java & Spring Boot**, **Spring Security**, and **layered architecture** — giving me a practical understanding of the systems that generate the data I work with.
+
+Familiar with **Docker** for reproducible environments and **AWS** for cloud-based infrastructure. Focused on writing **maintainable**, **testable**, and **business-driven** solutions in both data and software engineering.
 
 ---
 
@@ -13,19 +15,19 @@ Experience with **Spring Security**, **validation**, **exception handling**, and
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4>⚙️ Backend</h4>
+      <h4>🔧 Data Engineering</h4>
       <ul>
-        <li>Java & Spring Boot</li>
-        <li>RESTful APIs</li>
-        <li>Spring Security</li>
+        <li>Python & PySpark</li>
+        <li>ETL / ELT Pipelines</li>
+        <li>Data Transformation</li>
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h4>🏛️ Architecture</h4>
+      <h4>🏛️ Data Architecture</h4>
       <ul>
-        <li>Layered Architecture</li>
-        <li>SOLID Principles</li>
-        <li>Clean Code & Design Patterns</li>
+        <li>Pipeline Design</li>
+        <li>SOLID & Clean Code</li>
+        <li>Relational Modeling & SQL</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -33,7 +35,7 @@ Experience with **Spring Security**, **validation**, **exception handling**, and
       <ul>
         <li>AWS</li>
         <li>Docker</li>
-        <li>MySQL & JPA/Hibernate</li>
+        <li>MySQL & PostgreSQL</li>
       </ul>
     </td>
   </tr>
@@ -44,9 +46,41 @@ Experience with **Spring Security**, **validation**, **exception handling**, and
 ## ⚙️ Technologies & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=python,java,spring&theme=dark" /><br/><br/>
   <img src="https://skillicons.dev/icons?i=aws,docker,mysql,postgres,git&theme=dark" />
 </div>
+
+---
+
+## 📚 Currently Learning
+
+Tools and platforms I'm actively studying and will be adding to my stack:
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>⚡ Orchestration & Transform</h4>
+      <ul>
+        <li>Apache Airflow</li>
+        <li>dbt (data build tool)</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🏗️ Data Platforms</h4>
+      <ul>
+        <li>Databricks</li>
+        <li>Snowflake</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4>☁️ Cloud Data</h4>
+      <ul>
+        <li>Google Cloud (BigQuery)</li>
+        <li>Kafka</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
