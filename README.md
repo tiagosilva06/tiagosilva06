@@ -44,15 +44,6 @@ Back-end background includes production-grade **REST APIs** with **Python/FastAP
 
 ---
 
-## ⚙️ Technologies & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,docker&theme=dark" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=aws,git,java,spring&theme=dark" />
-</div>
-
----
-
 ## 📚 Currently Learning
 
 <table>
