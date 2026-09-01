@@ -3,7 +3,7 @@
 class DataEngineer:
     def __init__(self):
         self.id = "Tiago Silva"
-        self.role = "Data Engineer | Python | SQL | GCP | Databricks | ETL/ELT | AWS"
+        self.role = "Data Engineer | Python | SQL | GCP | Databricks | AWS | ETL/ELT "
         self.location = "São Paulo, BR"
         self.focus = ["Scalability", "Data Engineering", "AI Agents", "Automation"]
     
