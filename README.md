@@ -1,88 +1,21 @@
-# 👋🏼 Welcome to my GitHub!
+## >_ sys_info
+```python
+class DataEngineer:
+    def __init__(self):
+        self.id = "Tiago Silva"
+        self.role = "Data Engineer | Python | SQL | GCP | Databricks | ETL/ELT | AWS"
+        self.location = "São Paulo, BR"
+        self.focus = ["Scalability", "Data Engineering", "AI Agents", "Automation"]
+    
+    def current_status(self):
+        return {
+            "core_provider": "WPP Media Services",
+            "allocated_at": "Record, Ford, Alelo",
+            "building": "Scalable ETL pipelines and cloud-native data architectures",
+            "learning": "How to engineer data that actually moves businesses forward"
+        }
+```
 
-**Data Engineer** with a strong software engineering foundation — over 1 year of experience building data pipelines, ETL processes, and distributed data systems with **Python**, **PySpark**, and **SQL**. Background in back-end development gives me a deep understanding of how data is generated, stored, and exposed across systems.
-
-I design analytical pipelines for financial data, processing large volumes of loan records, calculating P&L by vintage, measuring default rates, and running sensitivity simulations across credit portfolios using **PySpark** and **Python**. I apply layered pipeline architecture and engineering best practices such as **Clean Code** and **SOLID principles** to data workflows.
-
-Back-end background includes production-grade **REST APIs** with **Python/FastAPI** and **Java/Spring Boot**, **Docker** containerization, and relational modeling with **PostgreSQL** and **MySQL**.
-
----
-
-### 🧭 Focus Areas
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>🔧 Data Engineering</h4>
-      <ul>
-        <li>ETL / ELT Pipeline Design</li>
-        <li>PySpark & Distributed Processing</li>
-        <li>Data Transformation & Aggregation</li>
-        <li>Financial Data & Credit Analytics</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🏛️ Data Architecture</h4>
-      <ul>
-        <li>Pipeline Layered Architecture</li>
-        <li>Relational Modeling & SQL</li>
-        <li>Data Validation & Quality</li>
-        <li>SOLID & Clean Code</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h4>☁️ Cloud & Infrastructure</h4>
-      <ul>
-        <li>Docker & Containerization</li>
-        <li>AWS</li>
-        <li>PostgreSQL & MySQL</li>
-        <li>REST APIs & Data Ingestion</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📚 Currently Learning
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>⚡ Orchestration & Transform</h4>
-      <ul>
-        <li>Apache Airflow</li>
-        <li>dbt (data build tool)</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🏗️ Data Platforms</h4>
-      <ul>
-        <li>Databricks</li>
-        <li>Snowflake</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h4>☁️ Cloud Data</h4>
-      <ul>
-        <li>Google Cloud (BigQuery)</li>
-        <li>Apache Kafka</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=tiagosilva06&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=ffffff10&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
-</div>
-
----
-
-## 📫 How to reach me
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiagosilva9278@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-silvadev/)
+## >_ connect
+LinkedIn: [linkedin.com/in/tiago-silvadev](https://www.linkedin.com/in/tiago-silvadev/)
+Email: tiagosilva9278@gmail.com
