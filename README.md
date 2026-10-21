@@ -12,6 +12,8 @@ class DataEngineer:
             "core_company": "WPP Media Services",
             "current_client": "RecordTV",
             "building": "Scalable and reliable data platforms designed for real-world business needs"
+            "Optimizing": "Distributed processing and low-latency architectures",
+
         }
 ```
 
