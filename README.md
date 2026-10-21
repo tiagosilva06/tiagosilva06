@@ -3,16 +3,15 @@
 class DataEngineer:
     def __init__(self):
         self.id = "Tiago Silva"
-        self.role = "Data Engineer | Python | SQL | GCP | Spark | Databricks | AWS"
+        self.role = "Data Engineer | Python | SQL | Spark | dbt | AWS "
         self.location = "São Paulo, BR"
-        self.focus = ["Scalability", "Data Engineering", "AI Agents", "Automation"]
+        self.focus = ["Scalability", "Data Engineering", "Lakehouse Architecture", "FinOps"]
     
     def current_status(self):
         return {
             "core_provider": "WPP Media Services",
-            "allocated_at": "Record, Ford, Alelo",
-            "building": "Scalable ETL pipelines and cloud-native data architectures",
-            "learning": "How to engineer data that actually moves businesses forward"
+            "allocated_at": "RecordTV",
+            "building": "Scalable and reliable data platforms designed for real-world business needs"
         }
 ```
 
