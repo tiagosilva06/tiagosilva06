@@ -10,7 +10,7 @@ class DataEngineer:
     def current_status(self):
         return {
             "core_company": "WPP Media Services",
-            "current_client": "RecordTV",
+            "client": "Record TV",
             "building": "Scalable and reliable data platforms designed for real-world business needs"
             "Optimizing": "Distributed processing and low-latency architectures",
 
