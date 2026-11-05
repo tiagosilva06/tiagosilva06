@@ -19,4 +19,5 @@ class DataEngineer:
 
 ## >_ connect
 LinkedIn: [linkedin.com/in/tiago-silvadev](https://www.linkedin.com/in/tiago-silvadev/)
+
 Email: tiagosilva9278@gmail.com
